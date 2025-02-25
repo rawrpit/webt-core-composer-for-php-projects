@@ -1,0 +1,11 @@
+{
+    "name": "singh/composer-ue",
+    "autoload": {
+        "psr-4": {
+            "Singh\\ComposerUe\\": "src/"
+        }
+    },
+    "require": {
+        "endroid/qr-code": "^6.0"
+    }
+}
