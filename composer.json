@@ -4,6 +4,7 @@
     "type": "project",
     "require": {
         "php": ">=7.4",
+        "bacon/bacon-qr-code": "^2.0",
         "endroid/qr-code": "^4.6"
     },
     "autoload": {

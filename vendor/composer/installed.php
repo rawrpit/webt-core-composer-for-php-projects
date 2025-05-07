@@ -3,7 +3,7 @@
         'name' => 'singh/composer-ue',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '6a68d167102865e2db6745afe4ca9089a9bda850',
+        'reference' => 'f6f14c543576cebec09b5ebb55114f304e59f615',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'singh/composer-ue' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '6a68d167102865e2db6745afe4ca9089a9bda850',
+            'reference' => 'f6f14c543576cebec09b5ebb55114f304e59f615',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
